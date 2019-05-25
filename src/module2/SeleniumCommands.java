@@ -49,7 +49,7 @@ public class SeleniumCommands {
 		driver.findElement(By.id("")).click(); // to click on a button or link
 		driver.findElement(By.id("")).getText(); //to fetch the text
 		
-		//hello new changes is here by putu hihi
+		//hello new changes is here by putu hihi haha
 		
 		
 	}
